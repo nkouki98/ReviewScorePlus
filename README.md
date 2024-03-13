@@ -20,4 +20,4 @@ This is a sample project demonstrating the integration of Spring Boot with Mongo
 
 ```bash
 https://github.com/nkouki98/ReviewScoreplus.git
-cd spring-boot-mongodb-project
+cd ReviewScoreplus
